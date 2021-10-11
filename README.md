@@ -1,4 +1,3 @@
-<img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
 
 #  The Sparks Foundation Tasks
 
@@ -10,7 +9,7 @@ This repository contains the tasks that I completed while working as an intern f
 
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/eCg5n1EXe5E)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kasty100/TSF-Intern/blob/main/Task-1_Linear_Regression.ipynb)
+
 
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
@@ -24,7 +23,7 @@ _Please click on the images on right side to view my solution._
 
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/hs26hyob1i8)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kasty100/TSF-Intern/blob/main/Task_3%20TSF.xlsx)
+
 
 ### # Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
 _Please click on the images on right side to view my solution (preferably youtube)._
