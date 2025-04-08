@@ -26,10 +26,10 @@ _Please click on the images on right side to view my solution._
 
 
 
+
 <a href="https://youtu.be/hs26hyob1i8?si=AJv0DQlUHDUTz9aY">
   <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png" width="50" height="50" style="float:right; margin-left:10px;">
 </a>
-
 
 ### # Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
 _Please click on the images on right side to view my solution (preferably youtube)._
