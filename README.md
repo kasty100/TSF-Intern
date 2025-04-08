@@ -8,7 +8,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Type** - Work from Home
 
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/eCg5n1EXe5E)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/eCg5n1EXe5E?si=jFFEq2htxubWb7pp)
 
 
 
@@ -22,7 +22,7 @@ _Please click on the images on right side to view my solution._
 
 
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/hs26hyob1i8) 
+[<img align = right height = 50 width = 50 src = **https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png**>](https://youtu.be/hs26hyob1i8?si=AJv0DQlUHDUTz9aY) 
 
 
 ### # Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
