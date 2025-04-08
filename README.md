@@ -11,7 +11,7 @@ This repository contains the tasks that I completed while working as an intern f
 
 
 <a href="https://youtu.be/eCg5n1EXe5E?si=jFFEq2htxubWb7pp">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png" width="50" height="50" style="float:right; margin-left:10px;">
+  <img align = right src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png" width="50" height="50" style="float:right; margin-left:10px;">
 </a>
 
 
