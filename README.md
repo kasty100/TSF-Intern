@@ -10,10 +10,8 @@ This repository contains the tasks that I completed while working as an intern f
 
 
 ### # Task-1 : <a href="https://youtu.be/eCg5n1EXe5E?si=jFFEq2htxubWb7pp">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png" width="50" height="50" align=right style="display:block; margin-left:auto; margin-right:0;">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png" width="50" height="50" style="display:block; margin-left:auto; margin-right:0;">
 </a>
-
-
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
 _Please click on the images on right side to view my solution._
