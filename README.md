@@ -9,9 +9,9 @@ This repository contains the tasks that I completed while working as an intern f
 
 
 
-[![YouTube Icon](https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png)](https://youtu.be/eCg5n1EXe5E?si=jFFEq2htxubWb7pp)
-
-
+<a href="https://youtu.be/eCg5n1EXe5E?si=jFFEq2htxubWb7pp">
+  <img align="right" height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png" />
+</a>
 
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
