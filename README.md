@@ -15,6 +15,7 @@ This repository contains the tasks that I completed while working as an intern f
 </a>
 
 
+
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
 _Please click on the images on right side to view my solution._
 
